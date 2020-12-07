@@ -12,5 +12,6 @@ https://raw.githubusercontent.com/catdennis/Personal-Dataset/master/Visual%20Ana
 visualization for current season standings
 https://raw.githubusercontent.com/catdennis/Personal-Dataset/master/current%20PL%20off%20vs%20def-1.png
 
-
+## Analytics
+For my analytics I have decided to perform tukeys five number summary to compare how the averages for Ofense and Defense ranking have changed throughout the season. 
 
