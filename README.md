@@ -6,6 +6,10 @@ Soccer has always been my favorite sport growing up. I loved to play it, I loved
 I collected my data from a source called FiveThirtyEight. FiveThrityEight is a website that uses statistical analysis to present compelling stories of subjects ranging from politics, entertainmnet, and sports. I was able to pull a forecast of the 2020-21 premier league standings before the season started and vs how the current season has matched up to their forecast. Since my data wasn't formed from a poll, there was no missing data, hence, I didn't have to do much cleaning in terms of the data I pulled from FiveThirtyEight. I did however, have to condense a lot fo the data to make sure I only represented what was important to my question. Of the data that was represented in the forecast I decided to only pull three of the nine columns included in the forecast.; Offense, defense, and overall pts. 
 
 ## Visualization
+Visualization for pre season predictions
+https://raw.githubusercontent.com/catdennis/Personal-Dataset/master/Visual%20Analysis%20for%20DA%20115-1.png
+
+visualization for current season standings
 https://raw.githubusercontent.com/catdennis/Personal-Dataset/master/current%20PL%20off%20vs%20def-1.png
 
 
